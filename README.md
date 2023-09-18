@@ -1,7 +1,7 @@
 # TicTacToe
 An android TicTacToe game.
 
-<p float="left">
+<p align="center">
   <img src="https://github.com/Orphy123/TicTacToe/blob/main/images/im1.png" width="30%" />
   <img src="https://github.com/Orphy123/TicTacToe/blob/main/images/im2.png" width="30%" /> 
   <img src="https://github.com/Orphy123/TicTacToe/blob/main/images/im3.png" width="30%" />
@@ -9,23 +9,36 @@ An android TicTacToe game.
 
 Challenge your friends in a classic duel of Xs and Os with a modern touch. This interactive game offers a fun experience for everyone!
 
-## Features
+## Features 🚀
 
-- **Two Player Mode:** Enter names of players and take on the challenge.
-- **Winning Detection:** Automatically detects and announces the winner or if it's a draw.
-- **Dynamic UI:** Showcases player turns with distinct UI changes for better clarity.
-- **Restart Game:** Integrated functionality to restart the game without hassle.
-- **Custom Win Dialogs:** Interactive dialogs to showcase winning player or if the match ends in a draw.
+### Two Player Mode 🎮
+- **Enter Names of Players:** Begin the game by naming the players and embarking on a thrilling challenge.
+  
+### Winning Detection 🏆
+- **Automated Victory Announcements:** The game recognizes and declares the winner or highlights a tie.
 
-## Technical Stack
+### Dynamic UI 🌌
+- **Player Turns Display:** The UI distinctly switches based on player turns, ensuring players are always aware of their moves.
+  
+### Restart Game 🔄
+- **Gameplay Refresh:** Integrated feature to reset and start the game afresh without any hassles.
 
-The TicTacToe game is crafted using advanced Android development concepts and tools:
+### Custom Win Dialogs 🎉
+- **Victory Alerts:** Engaging dialogs pop up to showcase the winning player or inform about a draw.
 
-- **Kotlin:** The core programming language used, exemplifying its concise and expressive syntax.
-- **Android Activities:** Multiple activity structures to handle player addition and main game functionality.
-- **Custom Dialogs:** Leveraging Android's Dialog class to create custom win notifications.
-- **Array Manipulations:** Efficient use of arrays and list structures to determine game state and winning conditions.
-- **Advanced UI Handling:** Dynamic UI modifications based on player turns using Android's Layout and View classes.
+## Technical Stack 🛠
 
-Be sure to check the source code to get a deeper understanding of the game's logic and structure. Any contributions or suggestions are always welcome!
+The TicTacToe game showcases state-of-the-art Android development practices and tools:
+
+- **Kotlin:** The primary language, renowned for its succinct and expressive syntax.
+  
+- **Android Activities:** Uses multiple activity layouts to manage player input and the main gameplay functionality.
+  
+- **Custom Dialogs:** Leverages the Android Dialog class to design specialized win alerts.
+  
+- **Array Manipulations:** Employing efficient array and list operations to ascertain game status and determine winning scenarios.
+  
+- **Advanced UI Handling:** Dynamically modifies the user interface depending on player moves, utilizing Android's Layout and View classes.
+
+Delve into the source code for an in-depth look at the game's logic and structure. We're always open to contributions and feedback!
 
