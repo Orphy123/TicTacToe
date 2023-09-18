@@ -26,6 +26,14 @@ Challenge your friends in a classic duel of Xs and Os with a modern touch. This 
 ### Custom Win Dialogs 🎉
 - **Victory Alerts:** Engaging dialogs pop up to showcase the winning player or inform about a draw.
 
+
+<p align="center">
+  <img src="https://github.com/Orphy123/TicTacToe/blob/main/images/im4.png" width="30%" />
+  <img src="https://github.com/Orphy123/TicTacToe/blob/main/images/im5.png" width="30%" /> 
+  <img src="https://github.com/Orphy123/TicTacToe/blob/main/images/im6.png" width="30%" />
+</p>
+
+
 ## Technical Stack 🛠
 
 The TicTacToe game showcases state-of-the-art Android development practices and tools:
@@ -39,6 +47,12 @@ The TicTacToe game showcases state-of-the-art Android development practices and 
 - **Array Manipulations:** Employing efficient array and list operations to ascertain game status and determine winning scenarios.
   
 - **Advanced UI Handling:** Dynamically modifies the user interface depending on player moves, utilizing Android's Layout and View classes.
+
+<p align="center">
+  <img src="https://github.com/Orphy123/TicTacToe/blob/main/images/im7.png" width="30%" />
+  <img src="https://github.com/Orphy123/TicTacToe/blob/main/images/im8.png" width="30%" /> 
+  <img src="https://github.com/Orphy123/TicTacToe/blob/main/images/im9.png" width="30%" />
+</p>
 
 Delve into the source code for an in-depth look at the game's logic and structure. We're always open to contributions and feedback!
 
